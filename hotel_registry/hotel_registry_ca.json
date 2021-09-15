@@ -1,0 +1,231 @@
+{"registry":[
+                {
+                "Hotel":"Little Paradise Hotel",
+                "Location":"435 E Avenida Olancha",
+                "Features":{"pool":10,"little":9,"place":9,"spring":8,"palm":7,"bed":7,"wonderful":6,"kitchen":5,"fridge":5,"comfortable":5},
+                "Reviews":20
+                },
+                {
+                "Hotel":"Hawthorn Suites By Wyndham Livermore Wine Country",
+                "Location":"1700 N Livermore Ave",
+                "Features":{"staff":24,"clean":21,"breakfast":20,"comfortable":14,"friendly":14,"livermore":12,"area":11,"bed":11,"freeway":10,"time":9},
+                "Reviews":68
+                },
+                {
+                "Hotel":"The Citizen Hotel, Autograph Collection",
+                "Location":"926 J St",
+                "Features":{"wed":19,"citizen":15,"venue":14,"staff":12,"love":11,"book":10,"beautiful":10,"food":9,"sacramento":8,"wedding":8},
+                "Reviews":38
+                },
+                {
+                "Hotel":"Residence Inn By Marriott Irvine John Wayne Airport",
+                "Location":"2855 Main St",
+                "Features":{"breakfast":41,"staff":34,"area":24,"clean":22,"free":21,"time":16,"friendly":15,"location":13,"suite":13,"residence":13},
+                "Reviews":82
+                },
+                {
+                "Hotel":"Sheraton Mission Valley San Diego Hotel",
+                "Location":"1433 Camino Del Rio South",
+                "Features":{"san":11,"diego":11,"staff":11,"friendly":5,"pool":5,"mission":4,"right":4,"shop":4,"place":4,"clean":4},
+                "Reviews":16
+                },
+                {
+                "Hotel":"Extended Stay America San Diego - Carlsbad Village By The Sea",
+                "Location":"1050 Grand Ave",
+                "Features":{"clean":7,"staff":5,"little":4,"friendly":4,"much":4,"take":3,"time":3,"late":3,"nicole":3,"work":3},
+                "Reviews":16
+                },
+                {
+                "Hotel":"Ramada",
+                "Location":"323 Reservation Rd",
+                "Features":{"bed":20,"breakfast":19,"staff":16,"friendly":16,"comfortable":13,"clean":11,"spacious":10,"monterey":10,"place":9,"free":8},
+                "Reviews":56
+                },
+                {
+                "Hotel":"Wine Valley Lodge",
+                "Location":"200 S Coombs St",
+                "Features":{"clean":52,"breakfast":42,"napa":35,"staff":31,"comfortable":27,"place":24,"bed":23,"wine":23,"price":21,"location":20},
+                "Reviews":110
+                },
+                {
+                "Hotel":"Comfort Inn Livermore",
+                "Location":"2625 Constitution Dr",
+                "Features":{"clean":22,"breakfast":19,"staff":18,"comfortable":14,"bed":11,"quiet":10,"comfort":10,"inn":9,"area":9,"time":8},
+                "Reviews":47
+                },
+                {
+                "Hotel":"The Kinney - Venice Beach",
+                "Location":"737 W Washington Blvd",
+                "Features":{"clean":12,"free":12,"park":12,"area":11,"offer":10,"staff":9,"valet":8,"breakfast":7,"renovate":7,"comfortable":6},
+                "Reviews":24
+                },
+                {
+                "Hotel":"Cherry Orchard Inn",
+                "Location":"1071 E El Camino Real",
+                "Features":{"clean":20,"staff":17,"old":12,"breakfast":11,"friendly":10,"bed":9,"comfortable":8,"area":7,"helpful":6,"place":6},
+                "Reviews":48
+                },
+                {
+                "Hotel":"Chelsea Inn",
+                "Location":"2095 Lombard St",
+                "Features":{"location":49,"clean":44,"staff":32,"free":29,"walk":28,"park":28,"street":27,"restaurant":25,"san":25,"place":24},
+                "Reviews":109
+                },
+                {
+                "Hotel":"Holiday Inn Express Colton-riverside North",
+                "Location":"2830 S Iowa Ave",
+                "Features":{"clean":21,"breakfast":16,"staff":14,"bed":14,"holiday":10,"time":9,"little":9,"inn":9,"area":8,"price":7},
+                "Reviews":54
+                },
+                {
+                "Hotel":"Gardena Terrace Inn",
+                "Location":"15902 S Western Ave",
+                "Features":{"clean":47,"place":23,"staff":22,"comfortable":20,"bed":17,"desk":15,"come":15,"price":15,"front":15,"breakfast":15},
+                "Reviews":90
+                },
+                {
+                "Hotel":"Hotel Aura Sfo",
+                "Location":"190 El Camino Real",
+                "Features":{"clean":48,"staff":33,"breakfast":31,"airport":26,"desk":18,"free":18,"friendly":17,"bed":17,"comfortable":15,"location":14},
+                "Reviews":83
+                },
+                {
+                "Hotel":"Best Western Plus San Marcos Inn",
+                "Location":"250 Pacific St",
+                "Features":{"walk":31,"view":31,"staff":30,"morro":27,"clean":25,"bay":25,"breakfast":24,"location":23,"wine":21,"cheese":19},
+                "Reviews":93
+                },
+                {
+                "Hotel":"High Desert Motel",
+                "Location":"61310 29 Palms Hwy",
+                "Features":{"clean":16,"joshua":11,"place":10,"tree":10,"park":10,"motel":9,"price":6,"bed":6,"large":6,"work":6},
+                "Reviews":20
+                },
+                {
+                "Hotel":"Best Western of Long Beach",
+                "Location":"1725 Long Beach Blvd",
+                "Features":{"cruise":108,"breakfast":107,"clean":98,"staff":92,"long":77,"beach":76,"shuttle":71,"friendly":57,"park":55,"area":52},
+                "Reviews":252
+                },
+                {
+                "Hotel":"Hilton San Diego Airport\/harbor Island",
+                "Location":"1960 Harbor Island Dr",
+                "Features":{"view":31,"staff":16,"shuttle":11,"area":11,"harbor":10,"airport":10,"san":10,"diego":10,"clean":10,"park":9},
+                "Reviews":56
+                },
+                {
+                "Hotel":"Travelodge Anaheim Convention Center",
+                "Location":"2060 S Harbor Blvd",
+                "Features":{"breakfast":27,"free":21,"clean":19,"disneyland":17,"walk":15,"park":15,"price":15,"place":14,"bed":13,"disney":12},
+                "Reviews":71
+                },
+                {
+                "Hotel":"Best Western Plus Humboldt House Inn",
+                "Location":"701 Redwood Dr",
+                "Features":{"breakfast":14,"clean":8,"place":8,"staff":7,"humboldt":6,"town":6,"garberville":6,"comfortable":5,"wine":5,"cheese":5},
+                "Reviews":17
+                },
+                {
+                "Hotel":"Super 8 - Upland",
+                "Location":"1282 W 7th St",
+                "Features":{"sleep":9,"clean":9,"place":8,"staff":8,"service":7,"back":7,"friendly":6,"work":5,"seem":5,"location":5},
+                "Reviews":29
+                },
+                {
+                "Hotel":"Comfort Inn Humboldt Bay",
+                "Location":"4260 Broadway",
+                "Features":{"breakfast":16,"inn":14,"clean":14,"guest":13,"time":12,"comfort":12,"manager":11,"review":11,"thank":10,"take":10},
+                "Reviews":22
+                },
+                {
+                "Hotel":"Simpson House Inn",
+                "Location":"121 E Arrellaga St",
+                "Features":{"house":51,"simpson":44,"inn":42,"breakfast":42,"staff":41,"place":32,"beautiful":31,"garden":31,"barbara":31,"wonderful":26},
+                "Reviews":113
+                },
+                {
+                "Hotel":"Monterey Beach Dunes Inn",
+                "Location":"3280 Dunes Dr",
+                "Features":{"clean":22,"bed":16,"breakfast":16,"beach":13,"old":12,"location":12,"staff":10,"time":10,"place":9,"next":8},
+                "Reviews":50
+                },
+                {
+                "Hotel":"Quality Inn Long Beach Airport",
+                "Location":"3201 E Pacific Coast Hwy",
+                "Features":{"park":15,"comfortable":11,"place":9,"staff":9,"pretty":9,"bed":8,"breakfast":8,"area":8,"clean":8,"back":8},
+                "Reviews":36
+                },
+                {
+                "Hotel":"Hotel Valencia Santana Row",
+                "Location":"355 Santana Row",
+                "Features":{"row":54,"santana":51,"location":45,"area":36,"bar":34,"staff":33,"restaurant":29,"breakfast":26,"beautiful":25,"valencia":22},
+                "Reviews":161
+                },
+                {
+                "Hotel":"Quality Inn and Suites Irvine Spectrum",
+                "Location":"23702 Rockfield Blvd",
+                "Features":{"breakfast":32,"clean":22,"staff":20,"place":18,"bed":16,"front":15,"desk":15,"friendly":15,"free":14,"work":13},
+                "Reviews":74
+                },
+                {
+                "Hotel":"Best Western Silicon Valley Inn",
+                "Location":"600 N Mathilda Ave",
+                "Features":{"breakfast":22,"clean":22,"staff":15,"bed":12,"comfortable":12,"friendly":10,"location":10,"price":9,"small":7,"quiet":7},
+                "Reviews":50
+                },
+                {
+                "Hotel":"Anaheim Marriott Suites",
+                "Location":"12015 Harbor Blvd",
+                "Features":{"staff":103,"disneyland":92,"family":76,"marriott":60,"suite":60,"clean":59,"friendly":52,"breakfast":46,"service":45,"time":44},
+                "Reviews":237
+                },
+                {
+                "Hotel":"Monarch Inn",
+                "Location":"5059 Highway 140",
+                "Features":{"breakfast":17,"clean":14,"yosemite":11,"staff":8,"place":8,"restaurant":7,"little":6,"friendly":6,"location":6,"comfortable":5},
+                "Reviews":36
+                },
+                {
+                "Hotel":"Holiday Inn Express San Clemente",
+                "Location":"35 Via Pico Plz",
+                "Features":{"staff":56,"clean":56,"breakfast":44,"friendly":29,"beach":25,"san":25,"find":24,"bed":24,"comfortable":24,"location":22},
+                "Reviews":128
+                },
+                {
+                "Hotel":"Sportsmen's Lodge",
+                "Location":"12825 Ventura Blvd",
+                "Features":{"pool":33,"clean":22,"studio":19,"place":18,"service":17,"staff":16,"old":15,"lodge":15,"location":15,"universal":14},
+                "Reviews":105
+                },
+                {
+                "Hotel":"Good Nite Inn Rohnert Park",
+                "Location":"5040 Redwood Dr",
+                "Features":{"clean":48,"place":31,"staff":27,"bed":26,"price":24,"friendly":19,"comfortable":19,"time":15,"desk":14,"location":13},
+                "Reviews":100
+                },
+                {
+                "Hotel":"Casa Del Mar Inn Bandb",
+                "Location":"18 Bath St",
+                "Features":{"breakfast":26,"location":25,"wine":24,"cheese":22,"beach":19,"street":16,"clean":16,"walk":16,"bed":15,"small":14},
+                "Reviews":80
+                },
+                {
+                "Hotel":"Holiday Inn Express Hotel and Suites Hesperia",
+                "Location":"9750 Key Point Ave",
+                "Features":{"clean":21,"staff":19,"breakfast":18,"pool":14,"friendly":12,"bed":10,"comfortable":10,"place":8,"look":7,"front":7},
+                "Reviews":53
+                },
+                {
+                "Hotel":"Holiday Inn Victorville",
+                "Location":"15494 Palmdale Rd",
+                "Features":{"clean":21,"staff":11,"price":11,"work":11,"friendly":10,"bed":10,"food":10,"restaurant":9,"breakfast":9,"comfortable":9},
+                "Reviews":55
+                },
+                {
+                "Hotel":"Cherokee Lodge Bed and Breakfast",
+                "Location":"964 D Ave",
+                "Features":{"beach":37,"walk":34,"location":31,"staff":27,"lodge":23,"coronado":23,"breakfast":22,"comfortable":19,"bed":19,"place":18},
+                "Reviews":76
+                }
+            ]
+}

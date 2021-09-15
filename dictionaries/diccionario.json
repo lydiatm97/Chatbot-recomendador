@@ -1,0 +1,35 @@
+{"contenido":[
+        {
+         "tag":"greeting",
+         "patterns":["hello", "hi", "good morning", "good afternoon", "good evening"],
+         "answers":["Hi, I am pleased to meet you", "Hello, nice to meet you", "Hello, I am a recommender chatbot"]
+        },
+        {
+         "tag":"farewell",
+         "patterns":["bye", "goodbye", "good night", "have a nice day", "so long", "take care", "Peace out!"],
+         "answers":["Goodbye, I hope I have been able to help you", "Bye, see you next time"]
+        },
+        {
+         "tag":"thankfulness",
+         "patterns":["thanks", "thank you", "that´s helpful", "awesome, thanks", "thanks for helping me"],
+         "answers":["I am gladly help you", "I am happy to assist you"]
+        },
+        {
+         "tag":"noanswer",
+         "patterns":[],
+         "answers":["Sorry, I can not understand you", "I am not sure that I understood you right", "Repeat your request, please"]
+        },
+        {
+         "tag":"options",
+         "patterns":["What you can do?", "How you could help me?", "What help you provide?"],
+         "answers":["My job is to recommend the hotel that best suits your needs", "I am a chatbot designed to help you find your dream hotel."]
+        },
+        {
+         "tag":"search",
+         "patterns":["I am looking for a hotel", "I need your help to find a hotel", "Write out your recommendations", "Need help"],
+         "answers":["Give me a key service for you"]
+        }
+        
+            ]
+
+}

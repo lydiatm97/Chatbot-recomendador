@@ -1,0 +1,93 @@
+{"registry":[
+                {
+                "Hotel":"Doubletree By Hilton West Palm Beach Airport",
+                "Location":"1808 S Australian Ave",
+                "Features":{"staff":122,"clean":93,"friendly":58,"airport":50,"breakfast":48,"service":45,"comfortable":44,"helpful":42,"desk":41,"area":41},
+                "Reviews":226
+                },
+                {
+                "Hotel":"Comfort Inn",
+                "Location":"4171 Boatways Rd",
+                "Features":{"breakfast":35,"clean":28,"pool":17,"staff":17,"area":17,"beach":16,"comfortable":13,"bed":12,"price":10,"place":10},
+                "Reviews":65
+                },
+                {
+                "Hotel":"Extended Stay America - Orlando Theme Parks - Vineland Rd.",
+                "Location":"5610 Vineland Rd",
+                "Features":{"clean":28,"breakfast":21,"staff":20,"universal":20,"kitchen":19,"bed":13,"friendly":13,"studio":13,"walk":12,"helpful":11},
+                "Reviews":60
+                },
+                {
+                "Hotel":"Vista Hotel On Lake Tarpon",
+                "Location":"37611 Us Highway 19 N",
+                "Features":{"clean":19,"friendly":14,"staff":13,"comfortable":10,"pool":9,"breakfast":9,"area":8,"bed":8,"vista":8,"helpful":8},
+                "Reviews":52
+                },
+                {
+                "Hotel":"Hotel Relais De Margaux Golf and Spa",
+                "Location":"5 Route De L'ile Vincent",
+                "Features":{"staff":17,"restaurant":12,"place":11,"spa":9,"golf":7,"service":7,"large":6,"margaux":6,"wonderful":6,"really":6},
+                "Reviews":19
+                },
+                {
+                "Hotel":"Amisos Hotel",
+                "Location":"Ebusuud Cad No2",
+                "Features":{"location":13,"staff":12,"breakfast":10,"restaurant":9,"english":7,"clean":7,"friendly":6,"small":6,"place":5,"helpful":5},
+                "Reviews":17
+                },
+                {
+                "Hotel":"Jacksonville Plaza Hotel and Suites",
+                "Location":"14585 Duval Rd",
+                "Features":{"clean":104,"staff":81,"bed":58,"breakfast":53,"friendly":49,"place":49,"airport":49,"small":44,"cruise":43,"comfortable":41},
+                "Reviews":200
+                },
+                {
+                "Hotel":"Comfort Inn Deland - Near University",
+                "Location":"400 E International Speedway Blvd",
+                "Features":{"staff":25,"breakfast":23,"clean":22,"friendly":17,"comfortable":15,"bed":8,"excellent":7,"desk":6,"helpful":6,"front":5},
+                "Reviews":54
+                },
+                {
+                "Hotel":"Innisbrook",
+                "Location":"36750 Us Highway 19 N",
+                "Features":{"pool":18,"staff":15,"resort":14,"golf":14,"come":12,"time":11,"course":9,"love":8,"friendly":7,"smell":7},
+                "Reviews":47
+                },
+                {
+                "Hotel":"Springhill Suites By Marriott Sarasota Bradenton",
+                "Location":"1020 University Pkwy",
+                "Features":{"breakfast":16,"area":12,"staff":10,"airport":9,"clean":8,"friendly":7,"place":6,"desk":6,"find":6,"pool":5},
+                "Reviews":26
+                },
+                {
+                "Hotel":"Hampton Inn Sarasota - I-75 Bee Ridge",
+                "Location":"5995 Cattleridge Blvd",
+                "Features":{"breakfast":65,"clean":51,"staff":48,"bed":31,"location":27,"comfortable":23,"friendly":21,"beach":20,"pool":19,"area":19},
+                "Reviews":119
+                },
+                {
+                "Hotel":"Inn & Suites",
+                "Location":"2540 S Mccall Rd",
+                "Features":{"inn":6,"clean":4,"pleasant":4,"little":4,"englewood":4,"surprise":3,"assure":3,"front":3,"desk":3,"clerk":3},
+                "Reviews":11
+                },
+                {
+                "Hotel":"Super 8 Bradenton Sarasota Area",
+                "Location":"6516 14th St W",
+                "Features":{"clean":14,"super":9,"area":8,"bathroom":8,"location":6,"staff":6,"place":6,"work":6,"price":6,"comfortable":6},
+                "Reviews":33
+                },
+                {
+                "Hotel":"Radisson Blu Conference and Airport Hotel",
+                "Location":"E 5 Karayolu (yanyol) No 20",
+                "Features":{"airport":31,"staff":14,"breakfast":12,"shuttle":11,"service":10,"free":10,"comfortable":9,"clean":8,"bed":6,"find":6},
+                "Reviews":37
+                },
+                {
+                "Hotel":"Comfort Suites Fort Pierce",
+                "Location":"6505 Metal Dr",
+                "Features":{"breakfast":23,"area":18,"bed":14,"staff":10,"comfortable":10,"food":10,"clean":9,"spacious":8,"friendly":7,"shower":6},
+                "Reviews":40
+                }
+            ]
+}

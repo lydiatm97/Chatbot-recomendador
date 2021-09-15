@@ -1,0 +1,111 @@
+{"registry":[
+                {
+                "Hotel":"Ambassadors Inn and Suites",
+                "Location":"716 21st St",
+                "Features":{"clean":24,"beach":23,"staff":15,"walk":15,"friendly":13,"price":10,"bathroom":9,"pool":9,"comfortable":9,"location":9},
+                "Reviews":54
+                },
+                {
+                "Hotel":"The National Conference Center",
+                "Location":"18980 Upper Belmont Pl",
+                "Features":{"food":14,"conference":11,"facility":8,"place":7,"time":7,"staff":7,"pretty":6,"week":5,"learn":5,"cafeteria":4},
+                "Reviews":30
+                },
+                {
+                "Hotel":"The Alexandrian, Autograph Collection",
+                "Location":"480 King St",
+                "Features":{"staff":448,"location":343,"friendly":244,"restaurant":241,"old":229,"town":226,"alexandria":224,"service":203,"comfortable":180,"walk":179},
+                "Reviews":1012
+                },
+                {
+                "Hotel":"Cambria Hotel & Suites",
+                "Location":"301 Reserve Ave",
+                "Features":{"clean":25,"staff":23,"bed":22,"roanoke":18,"suite":16,"area":16,"comfortable":16,"restaurant":14,"breakfast":13,"friendly":12},
+                "Reviews":59
+                },
+                {
+                "Hotel":"Days Inn Ruther Glen Kings Dominion Area",
+                "Location":"24320 Rogers Clark Blvd",
+                "Features":{"breakfast":16,"staff":12,"clean":9,"price":8,"time":6,"friendly":6,"old":6,"king":6,"dominion":6,"bed":5},
+                "Reviews":25
+                },
+                {
+                "Hotel":"Pueblo Bonito Sunset Beach Resort & Spa - All Inclusive",
+                "Location":"Predio Paraiso Escondido S\/n",
+                "Features":{"resort":65,"food":63,"service":46,"staff":41,"time":40,"pool":38,"beach":34,"view":33,"beautiful":28,"cart":24},
+                "Reviews":98
+                },
+                {
+                "Hotel":"Comfort Inn - Springfield",
+                "Location":"6560 Loisdale Ct",
+                "Features":{"breakfast":25,"clean":17,"staff":14,"shuttle":14,"door":13,"comfortable":12,"metro":9,"service":9,"free":9,"time":8},
+                "Reviews":61
+                },
+                {
+                "Hotel":"Quality Inn",
+                "Location":"4424 Cleburne Blvd",
+                "Features":{"clean":26,"staff":16,"breakfast":15,"bed":14,"comfortable":13,"price":12,"work":11,"area":9,"charge":9,"place":8},
+                "Reviews":48
+                },
+                {
+                "Hotel":"Quality Inn and Suites",
+                "Location":"3200 W Broad St",
+                "Features":{"staff":29,"clean":28,"breakfast":26,"old":25,"elevator":18,"bed":16,"place":13,"park":12,"friendly":12,"area":12},
+                "Reviews":66
+                },
+                {
+                "Hotel":"Concord Apartments By Boq Lodging",
+                "Location":"2600 Crystal Dr",
+                "Features":{"service":8,"awesome":6,"staff":6,"cheese":6,"sandwich":6,"steak":5,"friendly":4,"really":3,"place":3,"coffee":3},
+                "Reviews":26
+                },
+                {
+                "Hotel":"Hampton Inn Ft Chiswell",
+                "Location":"199 Fort Chiswell Rd",
+                "Features":{"breakfast":25,"hampton":20,"staff":20,"inn":18,"clean":18,"stop":12,"friendly":12,"time":9,"area":9,"way":8},
+                "Reviews":33
+                },
+                {
+                "Hotel":"Hampton Inn Dublin",
+                "Location":"4420 Cleburne Blvd",
+                "Features":{"clean":34,"staff":30,"hampton":28,"breakfast":23,"comfortable":21,"friendly":21,"inn":17,"bed":15,"definitely":11,"helpful":10},
+                "Reviews":64
+                },
+                {
+                "Hotel":"Travelodge Ruther Glen",
+                "Location":"23500 Welcome Way Dr",
+                "Features":{"price":5,"little":4,"much":4,"smell":3,"staff":3,"breakfast":3,"continental":3,"microwave":3,"pay":3,"milk":3},
+                "Reviews":12
+                },
+                {
+                "Hotel":"Hampton Inn Virginia Beach Oceanfront North",
+                "Location":"3107 Atlantic Ave",
+                "Features":{"breakfast":168,"staff":154,"clean":127,"beach":94,"location":86,"view":82,"friendly":74,"time":68,"pool":63,"hampton":57},
+                "Reviews":292
+                },
+                {
+                "Hotel":"Holiday Inn Express Hotel and Suites Va Beach Oceanfront",
+                "Location":"2607 Atlantic Ave",
+                "Features":{"staff":71,"breakfast":68,"clean":63,"beach":60,"friendly":47,"view":47,"location":39,"park":34,"ocean":31,"balcony":27},
+                "Reviews":173
+                },
+                {
+                "Hotel":"Wingate By Wyndham Chantilly \/ Dulles Airport",
+                "Location":"3940 Centerview Dr",
+                "Features":{"breakfast":28,"staff":19,"clean":18,"comfortable":13,"airport":11,"friendly":10,"free":9,"area":9,"shuttle":8,"location":8},
+                "Reviews":59
+                },
+                {
+                "Hotel":"Hyatt Dulles",
+                "Location":"2300 Dulles Corner Blvd",
+                "Features":{"staff":7,"service":5,"gyn":4,"wed":4,"take":4,"know":4,"food":4,"breakfast":4,"pay":3,"wedding":3},
+                "Reviews":21
+                },
+                {
+                "Hotel":"Holiday Inn Express Hotel & Suites Emporia",
+                "Location":"1350 W Atlantic St",
+                "Features":{"clean":18,"breakfast":14,"staff":13,"comfortable":10,"bed":10,"pool":10,"hot":9,"friendly":8,"overnight":7,"stop":7},
+                "Reviews":45
+                }
+            ]
+}

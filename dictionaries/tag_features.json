@@ -1,0 +1,37 @@
+{"features":[
+        {
+         "tag":"location",
+         "patterns":["location", "place", "walk", "view", "near", "beautiful", "park"]
+        },
+        {
+         "tag":"service",
+         "patterns":["service", "staff", "friendly", "helpful"]
+        },
+        {
+         "tag":"food",
+         "patterns":["food", "restaurant", "breakfast", "lunch", "dinner"]
+        },
+        {
+         "tag":"facilities",
+         "patterns":["bed", "comfortable", "pool", "bathroom", "cute", "spacious", "golf"] 
+        },
+        {
+         "tag":"cleaning",
+         "patterns":["clean", "wash"]
+        },
+        {
+         "tag":"work",
+         "patterns":["desk", "work", "computer", "wifi"]
+        },
+        {
+         "tag":"price",
+         "patterns":["price", "cheap", "free"]
+        },
+        {
+         "tag":"beach",
+         "patterns":["beach", "sea"]
+        }
+        
+            ]
+
+}

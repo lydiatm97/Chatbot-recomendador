@@ -1,0 +1,141 @@
+{"registry":[
+                {
+                "Hotel":"Comfort Suites",
+                "Location":"1055 E Mcnee Road Of Main St",
+                "Features":{"staff":6,"breakfast":6,"medical":6,"clean":4,"large":4,"trip":3,"center":3,"next":3,"walk":3,"distance":3},
+                "Reviews":12
+                },
+                {
+                "Hotel":"Azul Beach Hotel By Karisma Gourmet Inclusive",
+                "Location":"Carretera Cancun",
+                "Features":{"service":14,"staff":13,"front":10,"food":9,"beach":7,"end":7,"desk":7,"friendly":6,"poor":6,"last":6},
+                "Reviews":13
+                },
+                {
+                "Hotel":"Best Western Plus Arlington North Hotel and Suites",
+                "Location":"2075 N Us State Nighway 360",
+                "Features":{"clean":18,"staff":16,"breakfast":14,"friendly":14,"bed":10,"stadium":9,"comfortable":8,"flag":8,"work":8,"complaint":8},
+                "Reviews":55
+                },
+                {
+                "Hotel":"Staybridge Suites Tyler University Area",
+                "Location":"2759 Mcdonald Rd",
+                "Features":{"staff":14,"breakfast":13,"clean":11,"area":8,"bed":7,"skybridge":6,"tyler":6,"friendly":6,"trip":5,"place":5},
+                "Reviews":26
+                },
+                {
+                "Hotel":"Hilton Garden Inn Austin Nw - Arboretum",
+                "Location":"11617 Research Blvd",
+                "Features":{"clean":16,"staff":15,"breakfast":13,"comfortable":13,"bed":11,"lobby":9,"desk":8,"come":8,"front":8,"area":8},
+                "Reviews":48
+                },
+                {
+                "Hotel":"Hyatt Place San Antonio Airport - Quarry Market",
+                "Location":"7615 Jones Maltsberger Rd",
+                "Features":{"staff":26,"breakfast":18,"bed":18,"location":12,"place":12,"clean":10,"friendly":10,"king":9,"park":8,"san":7},
+                "Reviews":74
+                },
+                {
+                "Hotel":"Super 8 Dallas South",
+                "Location":"8541 S Hampton Rd",
+                "Features":{"clean":10,"staff":6,"old":5,"wall":5,"front":5,"never":4,"desk":4,"breakfast":4,"give":4,"work":3},
+                "Reviews":27
+                },
+                {
+                "Hotel":"Hampton Inn Abilene",
+                "Location":"3917 Ridgemont Dr",
+                "Features":{"clean":70,"staff":58,"breakfast":53,"friendly":32,"comfortable":28,"hampton":26,"abilene":20,"location":20,"helpful":17,"hot":16},
+                "Reviews":108
+                },
+                {
+                "Hotel":"Embassy Suites By Hilton Houston Downtown",
+                "Location":"1515 Dallas St",
+                "Features":{"happy":14,"hour":14,"awesome":13,"breakfast":13,"service":7,"free":6,"comfortable":4,"deal":4,"house":3,"blue":3},
+                "Reviews":23
+                },
+                {
+                "Hotel":"Hampton Inn & Suites Fort Worth-west-i-30",
+                "Location":"2700 Green Oaks Rd",
+                "Features":{"staff":61,"breakfast":52,"clean":46,"friendly":37,"area":33,"hampton":32,"helpful":29,"comfortable":21,"location":21,"bed":20},
+                "Reviews":96
+                },
+                {
+                "Hotel":"Melia Paris Champs-elys\ufffd\ufffdes",
+                "Location":"102 Avenue Victor Hugo",
+                "Features":{"staff":13,"location":12,"paris":11,"clean":7,"small":7,"walk":6,"helpful":5,"bed":5,"time":5,"area":5},
+                "Reviews":23
+                },
+                {
+                "Hotel":"Quality Suites Intercontinental Airport West",
+                "Location":"15321 Vantage Pkwy E",
+                "Features":{"breakfast":21,"staff":21,"airport":14,"clean":14,"friendly":12,"price":11,"time":11,"bed":10,"family":9,"thing":9},
+                "Reviews":51
+                },
+                {
+                "Hotel":"Comfort Hotel Nation Pere Lachaise Paris 11",
+                "Location":"12 Rue Leon Frot",
+                "Features":{"small":9,"metro":5,"area":5,"comfortable":4,"clean":4,"friendly":4,"price":4,"bed":4,"time":3,"receptionist":3},
+                "Reviews":15
+                },
+                {
+                "Hotel":"Excellence Riviera Cancun - Adults Only - All Inclusive",
+                "Location":"Carr Federal 307 Chet Pto Juarez",
+                "Features":{"resort":52,"staff":47,"restaurant":42,"pool":40,"food":36,"excellence":36,"beach":35,"time":31,"service":20,"place":20},
+                "Reviews":62
+                },
+                {
+                "Hotel":"El Dorado Seaside Suites By Karisma - All Inclusive",
+                "Location":"Km 95 Carretera Cancun Tulum",
+                "Features":{"staff":24,"resort":20,"food":17,"beautiful":12,"excellent":11,"time":10,"wonderful":10,"beach":9,"suite":9,"want":7},
+                "Reviews":28
+                },
+                {
+                "Hotel":"Microtel Inn Suites By Wyndham San Antonio By Seaworld",
+                "Location":"1605 W Loop 1604 S",
+                "Features":{"clean":21,"staff":12,"really":12,"location":10,"desk":9,"family":8,"front":8,"breakfast":8,"place":8,"helpful":7},
+                "Reviews":36
+                },
+                {
+                "Hotel":"Homewood Suites Dallas-market Center",
+                "Location":"2747 N Stemmans Fwy",
+                "Features":{"staff":9,"dallas":8,"location":7,"breakfast":7,"suite":6,"clean":6,"really":5,"place":5,"friendly":5,"spacious":5},
+                "Reviews":17
+                },
+                {
+                "Hotel":"H\ufffd\ufffdtel Sezz Paris",
+                "Location":"6 Avenue Fremiet",
+                "Features":{"staff":17,"service":13,"paris":12,"tower":10,"eiffel":9,"really":9,"walk":8,"place":8,"bed":7,"small":6},
+                "Reviews":27
+                },
+                {
+                "Hotel":"Best Western Hotel De Neuville",
+                "Location":"3 Rue Verniquet",
+                "Features":{"staff":34,"small":25,"metro":25,"paris":21,"walk":19,"breakfast":18,"clean":16,"minute":15,"station":15,"location":14},
+                "Reviews":53
+                },
+                {
+                "Hotel":"Fiesta Inn and Suites",
+                "Location":"4934 N W Loop 410",
+                "Features":{"clean":32,"staff":30,"place":30,"towel":28,"look":28,"bed":28,"work":26,"door":25,"time":22,"old":21},
+                "Reviews":109
+                },
+                {
+                "Hotel":"Hilton Americas-houston",
+                "Location":"1600 Lamar",
+                "Features":{"staff":9,"downtown":8,"hilton":8,"bar":7,"decide":6,"week":6,"fabulous":5,"service":5,"place":5,"drink":5},
+                "Reviews":16
+                },
+                {
+                "Hotel":"Americas Best Value Inn - Medical Center\/airport",
+                "Location":"450 Raynolds St",
+                "Features":{"clean":17,"friendly":11,"breakfast":10,"place":10,"bed":9,"comfortable":9,"staff":8,"price":8,"location":6,"easy":6},
+                "Reviews":44
+                },
+                {
+                "Hotel":"Hotel Eug\ufffd\ufffdne En Ville",
+                "Location":"6 Rue Buffault",
+                "Features":{"staff":44,"helpful":20,"location":19,"paris":17,"metro":16,"bed":16,"clean":14,"shower":14,"friendly":14,"small":13},
+                "Reviews":61
+                }
+            ]
+}
