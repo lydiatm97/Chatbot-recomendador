@@ -1,6 +1,3 @@
-
-<img align="center" src="C:\Users\lydia\Desktop\LogoPequeño.PNG" alt="Logo del proyecto">
-
 # Chatbot-recomendador
 
 TFM del Máster de Big Data y Data Science de la Universidad Complutense de Madrid.
