@@ -1,5 +1,5 @@
 
-<img align="center" src=![LogoPequeño](https://user-images.githubusercontent.com/60429840/142034846-81a0a364-bd23-416e-974e-82ce469e7635.PNG) alt="Logo del proyecto">
+<img align="center" src="C:\Users\lydia\Desktop\LogoPequeño.PNG" alt="Logo del proyecto">
 
 # Chatbot-recomendador
 
